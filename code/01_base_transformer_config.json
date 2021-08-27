@@ -1,0 +1,6 @@
+{
+    "model_name_or_path": "bert-base-uncased",
+    "task_name": "same-b",
+    "data_dir": "./data",
+    "output_dir": "./output"
+}

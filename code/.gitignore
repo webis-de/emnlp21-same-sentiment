@@ -1,0 +1,20 @@
+# cache
+.ipynb_checkpoints/
+
+# training data
+data/
+data_raw/
+# trained models / stats etc.
+output/
+output_logs/
+mlruns*/
+runs/
+
+# private
+.dbot.conf
+
+# python
+*.py[ocd]
+__pycache__/
+*.so
+*.egg-info/
