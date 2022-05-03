@@ -13,7 +13,7 @@ Setup environment:
 
 ```bash
 #conda init bash
-conda create -n samesentiment -y python=3
+conda create -n samesentiment -y python=3.8
 
 conda activate samesentiment
 
